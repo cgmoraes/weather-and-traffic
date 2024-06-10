@@ -1,5 +1,3 @@
-# Documentação do Repositório Weather and Traffic
-
 ## Visão Geral
 
 Este repositório contém as configurações e scripts necessários para a execução de um sistema de processamento de dados sobre condições meteorológicas e tráfego utilizando Apache Airflow e Docker.
@@ -45,7 +43,3 @@ Após a inicialização dos serviços via Docker Compose, acesse o Apache Airflo
 ## Contribuições
 
 Contribuições são bem-vindas! Por favor, crie uma issue ou envie um pull request com suas sugestões de melhorias ou correções.
-
-## Licença
-
-Especificar a licença sob a qual o projeto está disponibilizado.
